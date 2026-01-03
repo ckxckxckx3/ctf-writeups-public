@@ -20,6 +20,8 @@ It contains a curated collection of notes and writeups from platforms such as **
 
 #### Medium
 - [Administrator](./htb/medium/administrator.md)
+- [Certified](./htb/medium/certified.md)
+- [Magic](./htb/medium/magic.md)
 
 #### Hard
 - [Blackfield](./htb/hard/blackfield.md)
