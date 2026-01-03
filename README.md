@@ -8,7 +8,7 @@ It contains a curated collection of notes and writeups from platforms such as **
 ##   Profile
 
 - **TryHackMe**: https://tryhackme.com/p/badpvperz9z  
-- **Hack The Box**: https://app.hackthebox.com/users/2801794  
+- **Hack The Box**: https://app.hackthebox.com/public/users/2801794  
 
 ---
 ## Write-ups
