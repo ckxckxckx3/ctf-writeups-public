@@ -16,7 +16,7 @@ It contains a curated collection of notes and writeups from platforms such as **
 ### Hack The Box
 
 #### Easy
-- *(Coming soon)*
+- [Cicada](./htb/easy/Cicada.md)
 
 #### Medium
 - [Administrator](./htb/medium/administrator.md)
