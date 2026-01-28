@@ -17,6 +17,7 @@ It contains a curated collection of notes and writeups from platforms such as **
 
 #### Easy
 - [Cicada](./htb/easy/Cicada.md)
+- [Nibbles](./htb/easy/Nibbles.md)
 
 #### Medium
 - [Administrator](./htb/medium/administrator.md)
