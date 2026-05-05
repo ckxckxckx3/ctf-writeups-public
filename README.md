@@ -1,13 +1,12 @@
 # ctf-writeups
 
 This repository documents my penetration testing (PT) learning journey, dating from 14 October 2025.
-It contains a curated collection of notes and writeups from platforms such as **TryHackMe** or **Hack The Box**.
+It contains some collection of notes and writeups from **Hack The Box** that I update sometimes.
 
 ---
 
 ##   Profile
 
-- **TryHackMe**: https://tryhackme.com/p/badpvperz9z  
 - **Hack The Box**: https://app.hackthebox.com/public/users/2801794  
 
 ---
@@ -26,6 +25,7 @@ It contains a curated collection of notes and writeups from platforms such as **
 
 #### Hard
 - [Blackfield](./htb/hard/blackfield.md)
+- [Pollution](./htb/hard/pollution.md)
 
 ---
 
