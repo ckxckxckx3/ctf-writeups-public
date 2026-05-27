@@ -26,6 +26,7 @@ It contains some collection of notes and writeups from **Hack The Box** that I u
 #### Hard
 - [Blackfield](./htb/hard/blackfield.md)
 - [Pollution](./htb/hard/pollution.md)
+- [Dump](./htb/hard/dump.md)
 
 ---
 
