@@ -22,6 +22,7 @@ It contains some collection of notes and writeups from **Hack The Box** that I u
 - [Administrator](./htb/medium/administrator.md)
 - [Certified](./htb/medium/certified.md)
 - [Magic](./htb/medium/magic.md)
+- [Previous](./htb/medium/previous.md)
 
 #### Hard
 - [Blackfield](./htb/hard/blackfield.md)
